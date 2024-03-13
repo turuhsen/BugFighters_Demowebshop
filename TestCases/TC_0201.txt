@@ -1,0 +1,8 @@
+1. Open the web browser and go to "https://demowebshop.tricentis.com/".
+2. Click the "Register" button.
+3. In the "Your Personal Details" section, fill out the information given in the test data.
+4. Click the "Register" button to register.
+
+EXPECTED RESULT:
+- When the user tries to register with the same e-mail address, he displays the message "The Specified Email Already Exists".
+- The user is directed to the account verification page

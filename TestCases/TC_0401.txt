@@ -1,0 +1,7 @@
+1. Open the web browser and go to "https://demowebshop.tricentis.com/".
+2. Click the "Login" button.
+3. Enter the information in test data in ""email"" and ""password"" areas
+4. Click the ""Login"" button to log in.
+
+EXPECTED RESULT:
+- The user successfully entries to the system with his account. (Session is opened for the user)
