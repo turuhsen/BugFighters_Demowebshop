@@ -1,0 +1,12 @@
+1. Open the web browser and go to "https://demowebshop.tricentis.com/".
+2. Click the "Login" button.
+3. Enter the informations below in ""email"" and ""password"" areas
+    - (test0501) Empty email, empty password.
+    - (test0502) Current email, empty password
+    - (test0503) Empty email, valid password
+    - (test0504) invalid email, invalid password
+4. Click the ""Login"" button to log in.
+
+EXPECTED RESULT:
+- The user cannot login to the account.
+- The user receives a warning message to make the correct input.

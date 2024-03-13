@@ -1,0 +1,12 @@
+1. Open the web browser and go to "https://demowebshop.tricentis.com/".
+2. Click the "Login" button.
+3. Enter the information in test data in ""email"" and ""password"" areas
+4. Click the ""Login"" button to log in.
+5. Go to the ""My Account"" page by clicking on your username or e-mail address on the homepage.
+6. View your orders by clicking on the "Orders" link.
+7. Click the "Details" link of the order you want to view.
+8. Download and view the invoice by clicking on the PDF Invoice link.
+
+EXPECTED RESULT:
+- The user can view the latest order.
+- The user can download and display the invoice.
