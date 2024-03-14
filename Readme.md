@@ -7,5 +7,5 @@ This project aims to create and manage an automation test project based on the p
 The repository contains the following:
 
 - src/: This directory contains the source code for the automation test project.
-
+-testCases/: This directory includes the test cases developed by the team
 - README.md: This file provides an overview of the project, including repository contents.
